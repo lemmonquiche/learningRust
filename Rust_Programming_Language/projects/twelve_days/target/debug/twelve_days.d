@@ -1,0 +1,1 @@
+/home/maya/Desktop/Rust/learningRust/Rust_Programming_Language/projects/twelve_days/target/debug/twelve_days: /home/maya/Desktop/Rust/learningRust/Rust_Programming_Language/projects/twelve_days/src/main.rs

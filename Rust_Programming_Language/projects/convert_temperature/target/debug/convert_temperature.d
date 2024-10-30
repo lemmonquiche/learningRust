@@ -1,0 +1,1 @@
+/home/maya/Desktop/Rust/learningRust/Rust_Programming_Language/projects/convert_temperature/target/debug/convert_temperature: /home/maya/Desktop/Rust/learningRust/Rust_Programming_Language/projects/convert_temperature/src/main.rs
